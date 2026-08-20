@@ -1,0 +1,7 @@
+{
+  "_comment": "Fragment for ~/.claude/plugins/claude-hud/config.json — merge the two display keys into your existing config.",
+  "display": {
+    "externalUsagePath": "~/.claude/hud-usage.json",
+    "externalUsageFreshnessMs": 900000
+  }
+}
